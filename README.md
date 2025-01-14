@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @L09bryce
-- 👀 I’m interested in penetration testing 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on any project of interest
+- 👀 I’m an upcoming Software Engineer passionate about building innovative solutions that blend creativity and functionality. My journey in tech has been fueled by my enthusiasm for Java and sharpened by my expertise in HTML, CSS, and modern JavaScript frameworks like React.
 
+I’m also proficient in Bootstrap, creating sleek, responsive designs that bring user interfaces to life.
+- 🌱 Enhancing my proficiency in Java
+Deepening my understanding of full-stack development
+-🚀 Let’s Connect:
+If you share a passion for web development, Java, or want to collaborate on exciting projects, feel free to reach out or explore my repositories!
 <!---
 L09bryce/L09bryce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
