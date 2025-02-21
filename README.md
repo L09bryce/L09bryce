@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L09bryce
-- 👀 I’m an upcoming Software Engineer passionate about building innovative solutions that blend creativity and functionality. My journey in tech has been fueled by my enthusiasm for Java and sharpened by my expertise in HTML, CSS, and modern JavaScript frameworks like React.
+- 👀 Upcoming Software Engineer enthusiastic about building innovative solutions that blend creativity and functionality. My journey in tech has been fueled by my enthusiasm for Java and sharpened by my expertise in HTML, CSS, and modern JavaScript frameworks like React.
 
-I’m also proficient in Bootstrap, creating sleek, responsive designs that bring user interfaces to life.
+I’m also proficient in Bootstrap and Tailwind, creating sleek, responsive designs that bring user interfaces to life.
 - 🌱 Enhancing my proficiency in Java
 Deepening my understanding of full-stack development
 -🚀 Let’s Connect:
